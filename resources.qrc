@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/logo/WimpyLogo.svg</file>
+        <file>fonts/MuseoSans-900.ttf</file>
+        <file>fonts/Museo Slab W00 900.ttf</file>
+        <file>images/Breakfast/1.png</file>
+        <file>images/Breakfast/2.png</file>
+        <file>images/Breakfast/3.png</file>
+        <file>images/Breakfast/4.PNG</file>
+        <file>images/Breakfast/5.PNG</file>
+        <file>images/Breakfast/6.PNG</file>
+        <file>images/Breakfast/7.PNG</file>
+        <file>images/Breakfast/8.PNG</file>
+        <file>images/Breakfast/9.PNG</file>
+        <file>images/Breakfast/10.png</file>
+        <file>images/Breakfast/11.png</file>
+        <file>images/Breakfast/12.png</file>
+        <file>images/Breakfast/13.png</file>
+        <file>images/LightMeals/1.png</file>
+        <file>images/LightMeals/2.png</file>
+        <file>images/LightMeals/3.png</file>
+        <file>images/Burgers/1.png</file>
+        <file>images/Burgers/2.png</file>
+        <file>images/Burgers/3.png</file>
+        <file>images/Grills/1.png</file>
+        <file>images/Grills/2.png</file>
+        <file>images/Grills/3.png</file>
+        <file>images/SharingMeals/1.png</file>
+        <file>images/SharingMeals/2.png</file>
+        <file>images/SharingMeals/3.png</file>
+        <file>images/kids/1.png</file>
+        <file>images/kids/2.png</file>
+        <file>images/kids/3.png</file>
+        <file>images/Desserts/1.png</file>
+        <file>images/Desserts/2.png</file>
+        <file>images/Desserts/3.png</file>
+        <file>images/CoffeeMore/1.png</file>
+        <file>images/CoffeeMore/2.png</file>
+        <file>images/CoffeeMore/3.png</file>
+        <file>images/YummyDrinks/1.png</file>
+        <file>images/YummyDrinks/2.png</file>
+        <file>images/YummyDrinks/3.png</file>
+        <file>images/Misc/cart.png</file>
+    </qresource>
+</RCC>
